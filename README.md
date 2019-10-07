@@ -1,2 +1,2 @@
-# Spring-Mongo-CRUD
+# LPII
 ...
